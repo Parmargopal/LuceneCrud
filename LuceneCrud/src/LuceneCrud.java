@@ -16,7 +16,7 @@ import java.io.IOException;
 import static org.apache.lucene.index.DirectoryReader.open;
 
 public class LuceneCrud {
-    public String[] id={"1","2","3"};
+    public String[] id={"1","2","3" };
     public String[] quetion={"what is your name","what is your age","what is your birth date"};
 
     public  Directory directory;
