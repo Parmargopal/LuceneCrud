@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lucene-queryparser-8.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/1-2-20200901T042648Z-001/lucene-8.6.1/lucene-8.6.1/queryparser/lucene-queryparser-8.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
